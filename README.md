@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Lucas Martins Cardozo from Brazil (🇧🇷). I study Computer Engineering at [UTFPR - Universidade Tecnológica Federal do Paraná](http://portal.utfpr.edu.br/). I'm passionate about software development and I've always loved to produce a lot of content.
+
+In my free time I like to play games (🎮) to watch movies (🎞️) and series (📺), to listen to music (🎵) and eventually I like to drink a beer (🍺).
+
+Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasmartinscardozo/)](https://www.linkedin.com/in/lucasmartinscardozo/)
+
 <!--
 **lucaocardozo/lucaocardozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
